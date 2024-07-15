@@ -3,9 +3,9 @@ import requests
 from datetime import datetime, timedelta
 
 
-USER_ID = 7130039317097562
+USER_ID = 
 
-ACCESS_TOKEN = "THQWJXekN0Y3p3QnJ3ZAzdfZA3pCX18tWWg5a3ViQk96TlpwUGV2QmJqR1V2NFlNd2ZAwa2hIMUJlQWJqYWhjdUhZAYUV1SDhkaDZAWWmZAvOHVKaWVkY1V2RmNJbzNiWEQwWUZAuSUJ6UHdZAS3hiOF9IQTZAsMGJxUWVvcXl0dGhRVmpEU2FLbno3TlliSHNiVkhmbE42TFEZD"
+ACCESS_TOKEN = ""
 
 # set up api vars
 API_URL = "https://graph.threads.net/v1.0"
